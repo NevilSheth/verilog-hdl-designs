@@ -7,7 +7,7 @@ A collection of digital design implementations in Verilog HDL, covering combinat
 ## About Me
 
 - **Name:** Nevil Sheth
-- **Degree:** B.Tech ECE | Semester 5
+- **Degree:** B.Tech ECE
 - **University:** Institute of Technology, Nirma University
 - **LinkedIn:** [linkedin.com/in/nevil-sheth-577382326](https://www.linkedin.com/in/nevil-sheth-577382326/)
 
